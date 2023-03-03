@@ -40,7 +40,7 @@ strain	株/品系
 serogroup	血清群
 forma specialis	专化型
 biotype	生物型
-isolate	分离
+isolate	孤立物
 serotype	血清型
 genotype	基因型
 morph	形态
